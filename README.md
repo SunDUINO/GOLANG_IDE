@@ -36,7 +36,7 @@ W tej chwili jest kompletny Frontend , oraz czesćowo działający backend
 
 ###  Do zrobienia !!!!
 
--- Uruchomienie terminala 
+-- Uruchomienie terminala <br>
 -- Tworzenie plików i ich zapis 
 -- podłaczenie kompilatora 
 -- wiele innych .....
