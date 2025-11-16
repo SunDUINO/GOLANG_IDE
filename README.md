@@ -44,10 +44,11 @@ W tej chwili jest kompletny Frontend , oraz czesćowo działający backend
 ## Zrzuty ekranu 📸
 
 ### Edytor
-![Screenshot Edytor](link_do_zrzutu_ekranu_edytor)
 
-### Terminal
-![Screenshot Terminal](link_do_zrzutu_ekranu_terminal)
+![Screenshot Edytor](https://forum.lothar-team.pl//ext/dmzx/imageupload/img-files/48/cff7ff1/f1d4a60/eb5787aa69ceb1445c669029a9ba2d8a.png)
+![Screenshot Edytor](https://forum.lothar-team.pl//ext/dmzx/imageupload/img-files/48/4053a84/7d34967/32a3f8fba6368acab713631bad2ba437.png)
+
+
 
 ---
 
