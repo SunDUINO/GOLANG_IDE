@@ -72,7 +72,7 @@ go install github.com/wailsapp/wails/v2/cmd/wails@latest
 2. Sklonuj repozytorium:
 
 ```bash
-git clone https://github.com/TWOJE_KONTO/GoIDE.git
+git clone https://github.com/SunDUINO/GOLANG_IDE
 cd GoIDE
 ```
 
